@@ -1,4 +1,4 @@
-﻿using CalculatorApp.ViewModel;
+using CalculatorApp.ViewModel;
 
 using System;
 using System.Collections.Generic;

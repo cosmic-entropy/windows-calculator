@@ -5,3 +5,4 @@ name = "csharp"
 
 [[transformers]]
 name = "dotnet-format"
+enabled = false
